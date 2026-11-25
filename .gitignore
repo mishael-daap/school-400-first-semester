@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+/projects/BU-CSC-411-Modelling-and-Simulation/files/lab0/
+/projects/BU-CSC-411-Modelling-and-Simulation/files/tioluwani-oshinowo-lab-0-*/
+/files/student-info.md
